@@ -1,0 +1,161 @@
+.user {
+    padding: 5% 20% 0;
+}
+
+.user form {
+    border: 3px solid #f1f1f1;
+}
+
+
+/* Full-width inputs */
+
+.user input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.user h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+/* Set a style for all buttons */
+
+.user button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+/* Add a hover effect for buttons */
+
+.user button:hover {
+    opacity: 0.8;
+}
+
+
+/* Extra style for the cancel button (red) */
+
+.user .admin {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+
+/* Center the avatar image inside this container */
+
+.user .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+/* Avatar image */
+
+
+/* Add padding to containers */
+
+.user .container {
+    padding: 16px;
+}
+
+
+/* The "Forgot password" text */
+
+.user span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+.admin {
+    padding: 5% 20% 0;
+}
+
+.admin form {
+    border: 3px solid #f1f1f1;
+}
+
+
+/* Full-width inputs */
+
+.admin input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.admin h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+/* Set a style for all buttons */
+
+.admin button {
+    background-color: #f8a407;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+/* Add a hover effect for buttons */
+
+.admin button:hover {
+    opacity: 0.8;
+}
+
+
+/* Extra style for the cancel button (red) */
+
+.admin .admin {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #5b02e9;
+}
+
+
+/* Center the avatar image inside this container */
+
+.admin .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+/* Avatar image */
+
+
+/* Add padding to containers */
+
+.admin .container {
+    padding: 16px;
+}
+
+
+/* The "Forgot password" text */
+
+.admin span.psw {
+    float: right;
+    padding-top: 16px;
+}
